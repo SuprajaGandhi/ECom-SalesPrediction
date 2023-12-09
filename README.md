@@ -15,7 +15,8 @@ Analyze the trends on the weekly sales in different months, rolling average and 
 
 **Feature Engineering:**
 Lag features to capture the effect of past values on the target variable
-![image](https://github.com/SuprajaGandhi/ECom-SalesPrediction/assets/137209418/bebe7d21-83a8-47c7-afb2-53d9706c1eb8)
+<img width="507" alt="image" src="https://github.com/SuprajaGandhi/ECom-SalesPrediction/assets/137209418/27d2c862-da1b-4bcf-8ce3-64277360c331">
+
 
 **ML models:**
 
